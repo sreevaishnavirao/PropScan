@@ -11,7 +11,6 @@ const Header = () => {
     <span className='text-blue-950'>Scan</span>
 
 
-
    </h1>
    </Link>
    <form className='bg-slate-100 p-3 rounded-lg flex items-center'>
